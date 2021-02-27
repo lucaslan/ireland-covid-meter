@@ -1,0 +1,7 @@
+.idea
+.venv
+.vscode
+*.log
+playground/*
+__pycache__
+
