@@ -1,14 +1,15 @@
-# Project's name
-
+# Ireland covid meter
 
 ## Table of Contents
-* [About The Project](#About-The-Project)
-* [Built With](#Built-With)
-* [How to setup](#How-to-setup)
-* [License](#License)
+- [Ireland covid meter](#ireland-covid-meter)
+  - [Table of Contents](#table-of-contents)
+  - [About The Project](#about-the-project)
+  - [Built With](#built-with)
+  - [How to setup](#how-to-setup)
+  - [License](#license)
 
 ## About The Project
-`ireland-covid-meter` is a dashboard to keep track of the amount of covid cases across the Republic of Ireland!
+`ireland-covid-meter` is a script to keep track of the amount of covid cases across the Republic of Ireland!
 It uses the `CovidStatisticsProfileHPSCIrelandOpenData` dataset and Pandas to present it.
 
 ## Built With
